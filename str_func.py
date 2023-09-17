@@ -1,5 +1,7 @@
 def capitalize_str(in_str):
-    ''' capitalised string '''
+    ''' return capitalised string
+        new line docstring
+    '''
     return in_str.capitalize()
 
 
