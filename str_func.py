@@ -6,5 +6,5 @@ def capitalize_str(in_str):
 
 
 def upper_str(in_str):
-    ''' return upper string '''
+    ''' return upper'''
     return in_str.upper()
