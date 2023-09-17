@@ -6,3 +6,7 @@ def capitalize_str(in_str):
 def upper_str(in_str):
     ''' return upper string '''
     return in_str.upper()
+
+
+def lower_str(in_str):
+    return in_str.lower()
