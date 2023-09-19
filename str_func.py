@@ -11,4 +11,5 @@ def upper_str(in_str):
 
 
 def lower_str(in_str):
+    ''' docstring from develop '''
     return in_str.lower()
