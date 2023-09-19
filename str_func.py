@@ -11,4 +11,5 @@ def upper_str(in_str):
 
 
 def lower_str(in_str):
+    ''' docstring from feature/task4'''
     return in_str.lower()
